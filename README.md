@@ -16,3 +16,4 @@
 ~~~
 
 指定redis的ConnectionFactory，设置namespace用于多个Timeline，dataInterface是数据拉取接口（用于将数据从数据库拉取到redis）
+
